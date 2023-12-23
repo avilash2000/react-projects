@@ -1,0 +1,6 @@
+-> Virtual DOM, Fibre and reconcilitation
+    - createRoot : this will create it's own root (this is call react tree which will be different from browser tree)
+    - Article on react Fiber: https://github.com/acdlite/react-fiber-architecture
+    - Features of react fibers:
+        - Abitlity to pause, abort, or reuse work as new updates come in; the abitlity to assign priority to different typs of updates.
+    -  Reconciliation is the algorithm behind what is popularly understood as the "virtual DOM.
