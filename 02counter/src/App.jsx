@@ -14,6 +14,9 @@ function App() {
     // counter = counter +1
 
     setCounter(counter+1)
+    setCounter(counter+1)
+    setCounter(counter+1)
+    setCounter(counter+1)
 
   }
 

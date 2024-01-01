@@ -4,3 +4,7 @@
     - Features of react fibers:
         - Abitlity to pause, abort, or reuse work as new updates come in; the abitlity to assign priority to different typs of updates.
     -  Reconciliation is the algorithm behind what is popularly understood as the "virtual DOM.
+
+
+Questions:
+    - 
