@@ -7,4 +7,6 @@
 
 
 Questions:
-    - 
+    - React Router:
+        - a tag vs Link tag: a tag refreshes entire page while Link doesn't refresh 
+        - NavLink provides addtional things
